@@ -5,6 +5,13 @@ Just for putting in all our resources (not in any order yet)
 # Week 10
 [Week 10 Lecture](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-010_serverless_codealong.mp4?utm_source=hs_email&utm_medium=email&utm_content=82840896&_hsenc=p2ANqtz-_StKjdD5Nyfn81iyR51tSK_VpIr44l45EVsxeh_9xj7ngtdVdOvzcamxBGYyhzKoVQbXw7-m_fD1OF67uq_O423RA8wg&_hsmi=82840896)
 
+[Performing a database dump](https://techreturners.github.io/databases/001_introduction/#performing-a-database-dum)
+
+[Serverless Webinar](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-010-webinar_001-serverless_mysql.mp4)
+
+Connecting your serverless backend to the database.
+> ''In the video I also show my database tables and structure as well as a complete backend API ready for GET, POST, PUT and DELETE''
+
 ### Homework Week 10
 - [ ] Update the serverless function we created to respond with an array of tasks. Let me know once completed and I'll share further steps.
 - [ ] Watch the videos (when published) on introducing the MySQL library and connecting to your database from the API.
